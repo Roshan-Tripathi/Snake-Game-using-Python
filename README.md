@@ -1,7 +1,6 @@
 # Snake-Game-using-Python
-A  Snake Game made using Python
-
 This is a simple Snake Game made using PYGAME module in PYTHON 3.9.6
+Requirements : Python 3.9.6,pygame
 How to play : Open the game and press space to start and then press any arrow key to control the snake.
 Rules of the game : Snake grows up as it eats a food and snake dies (Game Over) as it eats himself.
 
